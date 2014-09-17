@@ -1,3 +1,5 @@
+This is a fork of https://github.com/KristianAbrahamsen/jquery.arrayUtilities to make it Bower compatible, and to provide a venu for updates and maintenance where required.
+
 # jQuery Array Utilities 
 
 Use the set operations UNION, INTERSECT, EXCEPT, known from SQL, to extract data from arrays.
