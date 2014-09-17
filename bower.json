@@ -1,0 +1,24 @@
+{
+  "name": "jquery.arrayUtilities",
+  "version": "0.0.2",
+  "homepage": "https://github.com/tigerhawkvok/jquery.arrayUtilities",
+  "authors": [
+      "kristian.abrahamsen@gmail.com",
+      "Philip Kahn <tigerhawkvok@gmail.com>"
+  ],
+  "description": "Use the set operations UNION, INTERSECT, EXCEPT, known from SQL, to extract data from arrays. DISTINCT is also available to extract an array with distinct values.",
+  "main": "src/jquery.arrayUtilities.js",
+  "keywords": [
+    "jquery",
+    "array",
+    "sql"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
